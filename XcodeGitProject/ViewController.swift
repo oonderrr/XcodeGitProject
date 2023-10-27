@@ -16,6 +16,8 @@ class ViewController: UIViewController {
     
     override func viewWillDisappear(_ animated: Bool) {
         //Will Disappear
+        
+        print("main branch'de değişiklik yaptım.")
     }
 
 }
